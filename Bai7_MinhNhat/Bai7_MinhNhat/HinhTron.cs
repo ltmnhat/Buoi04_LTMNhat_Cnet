@@ -23,7 +23,7 @@ namespace Bai7_MinhNhat
             this.tam = tam;
             this.bankinh = bankinh;
         }
-        public void xuat()
+        public void Xuat()
         {
             Console.WriteLine("Ban kinh hinh tron: {0}", bankinh);
             Console.WriteLine("Chu vi hinh tron la: {0} ", TinhChuVi());

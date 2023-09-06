@@ -1,0 +1,7 @@
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module2KeThuaDaHinh_Bai1\Module2KeThuaDaHinh_Bai1\bin\Debug\Module2KeThuaDaHinh_Bai1.exe.config
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module2KeThuaDaHinh_Bai1\Module2KeThuaDaHinh_Bai1\bin\Debug\Module2KeThuaDaHinh_Bai1.exe
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module2KeThuaDaHinh_Bai1\Module2KeThuaDaHinh_Bai1\bin\Debug\Module2KeThuaDaHinh_Bai1.pdb
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module2KeThuaDaHinh_Bai1\Module2KeThuaDaHinh_Bai1\obj\Debug\Module2KeThuaDaHinh_Bai1.csproj.AssemblyReference.cache
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module2KeThuaDaHinh_Bai1\Module2KeThuaDaHinh_Bai1\obj\Debug\Module2KeThuaDaHinh_Bai1.csproj.CoreCompileInputs.cache
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module2KeThuaDaHinh_Bai1\Module2KeThuaDaHinh_Bai1\obj\Debug\Module2KeThuaDaHinh_Bai1.exe
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module2KeThuaDaHinh_Bai1\Module2KeThuaDaHinh_Bai1\obj\Debug\Module2KeThuaDaHinh_Bai1.pdb
