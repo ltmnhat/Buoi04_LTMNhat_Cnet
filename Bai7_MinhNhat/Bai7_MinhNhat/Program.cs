@@ -17,7 +17,7 @@ namespace Bai7_MinhNhat
             td.X = 5;
             td.Y = 5;
             Console.WriteLine("Tam hinh tron: {0}({1}:{2})", td.Tentd, td.X, td.Y);
-            ht.xuat();
+            ht.Xuat();
             Console.ReadKey();
         }
     }
