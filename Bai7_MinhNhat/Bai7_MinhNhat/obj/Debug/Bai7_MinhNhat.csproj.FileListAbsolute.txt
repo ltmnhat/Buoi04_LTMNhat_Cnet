@@ -1,0 +1,7 @@
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Bai7_MinhNhat\Bai7_MinhNhat\bin\Debug\Bai7_MinhNhat.exe.config
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Bai7_MinhNhat\Bai7_MinhNhat\bin\Debug\Bai7_MinhNhat.exe
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Bai7_MinhNhat\Bai7_MinhNhat\bin\Debug\Bai7_MinhNhat.pdb
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Bai7_MinhNhat\Bai7_MinhNhat\obj\Debug\Bai7_MinhNhat.csproj.AssemblyReference.cache
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Bai7_MinhNhat\Bai7_MinhNhat\obj\Debug\Bai7_MinhNhat.csproj.CoreCompileInputs.cache
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Bai7_MinhNhat\Bai7_MinhNhat\obj\Debug\Bai7_MinhNhat.exe
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Bai7_MinhNhat\Bai7_MinhNhat\obj\Debug\Bai7_MinhNhat.pdb
