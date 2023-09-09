@@ -1,0 +1,7 @@
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module1_Bai3_MinhNhat\Module1_Bai3_MinhNhat\bin\Debug\Module1_Bai3_MinhNhat.exe.config
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module1_Bai3_MinhNhat\Module1_Bai3_MinhNhat\bin\Debug\Module1_Bai3_MinhNhat.exe
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module1_Bai3_MinhNhat\Module1_Bai3_MinhNhat\bin\Debug\Module1_Bai3_MinhNhat.pdb
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module1_Bai3_MinhNhat\Module1_Bai3_MinhNhat\obj\Debug\Module1_Bai3_MinhNhat.csproj.AssemblyReference.cache
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module1_Bai3_MinhNhat\Module1_Bai3_MinhNhat\obj\Debug\Module1_Bai3_MinhNhat.csproj.CoreCompileInputs.cache
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module1_Bai3_MinhNhat\Module1_Bai3_MinhNhat\obj\Debug\Module1_Bai3_MinhNhat.exe
+D:\HUFI_2021-2025\HK5\CN.Net\Buoi04_MinhNhat\Module1_Bai3_MinhNhat\Module1_Bai3_MinhNhat\obj\Debug\Module1_Bai3_MinhNhat.pdb
